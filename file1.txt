@@ -1,1 +1,2 @@
 update file1 in b1 branch
+update file1 in b2 branch
